@@ -1,7 +1,7 @@
 # Neural Networks in Python 🧠
 
 Este repositorio reúne varios proyectos de **redes neuronales** desarrollados en Python como parte de mi aprendizaje en *Machine Learning & Deep Learning*.  
-La base de los proyectos viene de un curso de Udemy, aunque he ido ampliándolos y puliéndolos para profundizar en su funcionamiento.
+La base de los proyectos viene de un curso de Udemy, aunque he ido ampliándolos y puliéndolos un poco.
 
 ## 📂 Proyectos incluidos
 
