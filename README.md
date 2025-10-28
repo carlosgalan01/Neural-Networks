@@ -12,7 +12,8 @@ La base de los proyectos viene de un curso de Udemy, aunque he ido ampliándolos
 
 ### 🔹 Convolutional Neural Network (CNN)
 - Notebook: [`Convolutional_neural_network.ipynb`](./Convolutional-Neural-Network/Convolutional_neural_network.ipynb)  
-- Proyecto más completo, desarrollado en **Jupyter Notebook**.  
+- Proyecto más completo, desarrollado en **Jupyter Notebook**.
+- Uso de redes convolucionales entrenadas sobre imágenes de perros y gatos para detectar, pues, si una imagen es un perro o un gato. 
 - Incluye:
   - Uso de técnicas de **data augmentation**.
   - Entrenamiento y evaluación de modelos con TensorFlow/Keras.
